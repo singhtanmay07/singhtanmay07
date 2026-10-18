@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**singhtanmay07/singhtanmay07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 👨‍💻 About Me<br><br>🔭 I'm currently working on Python projects and improving my programming skills.<br><br>👯 I'm looking to collaborate on beginner-friendly open-source projects.<br><br>💛 I'm looking for help with Data Structures and Algorithms (DSA) and problem-solving.<br><br>🌱 I'm currently learning Python, C, Git, GitHub, and DSA.<br><br>💬 Ask me about C programming, Python basics, and my learning journey in Computer Science.<br><br>⚡ Fun fact: I enjoy playing cricket, volleyball, badminton, and BGMI in my free time!
 
 
@@ -24,10 +16,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=7376tanmaysingh-debug&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
